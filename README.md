@@ -1,4 +1,8 @@
-Sorting Algorithm Visualizer
+#Sorting Algorithm Visualizer
+
+Watch Live Demo : https://parvbhatia.github.io/Sorting-Algorithm-Visualizer/
+
+
 
 A web application showcasing the inner workings of sorting algorithms.
 
